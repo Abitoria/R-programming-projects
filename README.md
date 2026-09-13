@@ -7,14 +7,33 @@ This repository contains advanced statistical data analyses and exploratory prog
 
 ---
 
-##  Project 1: Disease Outbreak Exploratory & Diagnostic Analysis (IDSS2 Capstone)
-* **Tools:** R, ggplot2, Descriptive & Diagnostic Statistics
-* **Objective:** Analyze 500 observations across 15 variables tracking multi state disease outbreaks (Malaria, COVID-19, Cholera, Tuberculosis, and Typhoid) to evaluate spread, recovery rates, and severity.
-* **Key Findings:**
-  * **Prevalence & Demographics:** Malaria and Typhoid showed the highest proportion frequencies (~22% and ~20.6%), with a near-even gender split (51% male, 49% female). COVID-19 accounted for 19.9% of reported cases.
-  * **Geographic Disparities:** Recovery rates varied drastically across states, ranging from a high of 68.3% in Kano down to 52.3% in Lagos, highlighting potential healthcare delivery gaps.
-  * **Clinical Metrics:** Average incubation periods mapped closely across illnesses, ranging from 10.18 days (COVID-19) to 11.49 days (Typhoid).
+### 🏥 IDSS2 Disease Outbreak & Health Analytics Dashboard
 
+**Analyst:** Olawoyin Olufunmilayo Esther
+
+## 🎯 Problem Statement
+Despite continuous efforts in disease monitoring, there is limited visibility into how different diseases spread across states, affect various age and gender groups, and vary in their recovery and fatality outcomes. Without a clear understanding of these patterns, allocating resources effectively, targeting interventions, or anticipating emerging public health risks remains difficult. 
+
+This project addresses these gaps by exploring trends in reported, confirmed, recovered, and fatal cases across multiple diseases within the IDSS2 dataset.
+
+## 🛠️ Tools & Skills
+* **R Programming** (Data Cleaning, Preprocessing, Exploratory Data Analysis, Statistical Summary Metrics).
+* **Microsoft Power BI** (Interactive Visualizations, Data Modeling, Dashboard Layouts).
+* **Public Health Analytics** (Geospatial Recovery Rates, Disease Prevalence, Temporal Trend Analysis).
+
+## 📊 Dashboard Preview
+![Power BI Health Dashboard](health%20report_2.png)
+
+## 💡 Key Findings & Insights
+* **Overall Metrics:** The dashboard tracks an average recovery rate of 62.0%, across 132K confirmed cases, 156.6K reported cases, and 13K total deaths.
+* **Disease Prevalence & Breakdown:** Analysis covers five primary diseases (Malaria, COVID-19, Tuberculosis, Typhoid, and Cholera) out of a dataset containing 500 observations and 15 variables. Malaria recorded the highest proportion frequency (0.22), followed by Typhoid (0.206) and COVID-19 (0.20).
+* **Demographic Breakdown:** Patients show an average age range between 36.8 and 40.4 years across diseases, with a nearly even gender vulnerability distribution of 50.42% male (67K) and 49.58% female (66K).
+* **Geographic Disparities:** Recovery performance varies across states, with Plateau and Kano leading recovery sums while Lagos records lower throughput figures.
+* **Temporal Trends (2018–2022):** Multi-year quarterly tracking of recovery rates reveals cyclical fluctuations, providing a historical baseline for outbreak preparedness.
+
+## 🚀 Strategic Recommendations
+* **Targeted Resource Allocation:** Direct healthcare resources and intervention programs to states with lower recovery rates.
+* **Age & Gender Specific Programs:** Implement tailored public health outreach addressing the specific age demographics most affected by conditions like malaria and typhoid.
 ---
 ## project 2: Problem Statement
 There is a common assumption that a student's academic performance is heavily dictated by lifestyle habits, study hours, and external resources like internet access. Educational institutions and students often pour energy into optimizing these environmental factors, assuming they are the primary levers for better grades. 
