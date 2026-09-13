@@ -22,7 +22,7 @@ This project addresses these gaps by exploring trends in reported, confirmed, re
 * **Public Health Analytics** (Geospatial Recovery Rates, Disease Prevalence, Temporal Trend Analysis).
 
 ## 📊 Dashboard Preview
-![Power BI Health Dashboard](health%20report_2.png)
+![health report](health%20report_2.png)
 
 ## 💡 Key Findings & Insights
 * **Overall Metrics:** The dashboard tracks an average recovery rate of 62.0%, across 132K confirmed cases, 156.6K reported cases, and 13K total deaths.
