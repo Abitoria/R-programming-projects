@@ -9,7 +9,7 @@ This repository contains advanced statistical data analyses and exploratory prog
 
 ##  Project 1: Disease Outbreak Exploratory & Diagnostic Analysis (IDSS2 Capstone)
 * **Tools:** R, ggplot2, Descriptive & Diagnostic Statistics
-* **Objective:** Analyze 500 observations across 15 variables tracking multi-state disease outbreaks (Malaria, COVID-19, Cholera, Tuberculosis, and Typhoid) to evaluate spread, recovery rates, and severity.
+* **Objective:** Analyze 500 observations across 15 variables tracking multi state disease outbreaks (Malaria, COVID-19, Cholera, Tuberculosis, and Typhoid) to evaluate spread, recovery rates, and severity.
 * **Key Findings:**
   * **Prevalence & Demographics:** Malaria and Typhoid showed the highest proportion frequencies (~22% and ~20.6%), with a near-even gender split (51% male, 49% female). COVID-19 accounted for 19.9% of reported cases.
   * **Geographic Disparities:** Recovery rates varied drastically across states, ranging from a high of 68.3% in Kano down to 52.3% in Lagos, highlighting potential healthcare delivery gaps.
@@ -71,5 +71,5 @@ This project addresses this gap by building an interactive R Shiny web applicati
 * **User Experience Optimization:** Further expand input parameters in future app iterations to include director and cast performance drill-downs.
 
 ## 📁 Repository Files
-* `app.R`: The core R script containing the Shiny application user interface (UI) and server logic.
+* `movie_dataset.R`: The core R script containing the Shiny application user interface (UI) and server logic.
 * `movie_1.png` & `movie_2.png`: Visual captures of the application dashboard interfaces.
