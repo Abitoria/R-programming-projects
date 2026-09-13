@@ -67,7 +67,7 @@ This project addresses this gap by building an interactive R Shiny web applicati
 * **User Engagement:** Interactive exploration shows clear trends in how volume and popularity metrics scale alongside critical acclaim.
 
 ## 🚀 Strategic Recommendations
-* **Content Strategy:** Utilize genre-specific performance filters to guide content acquisition or production focus toward high-rating categories.
+* **Content Strategy:** Utilize genre specific performance filters to guide content acquisition or production focus toward high rating categories.
 * **User Experience Optimization:** Further expand input parameters in future app iterations to include director and cast performance drill-downs.
 
 ## 📁 Repository Files
