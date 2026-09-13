@@ -22,7 +22,7 @@ This project addresses these gaps by exploring trends in reported, confirmed, re
 * **Public Health Analytics** (Geospatial Recovery Rates, Disease Prevalence, Temporal Trend Analysis).
 
 ## 📊 powerbi Project
-Powerbi Project](https://github.com/Abitoria/Powerbi-project).
+[Powerbi Project](https://github.com/Abitoria/Powerbi-project).
 
 ## 💡 Key Findings & Insights
 * **Overall Metrics:** The dashboard tracks an average recovery rate of 62.0%, across 132K confirmed cases, 156.6K reported cases, and 13K total deaths.
