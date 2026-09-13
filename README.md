@@ -21,7 +21,7 @@ This project addresses these gaps by exploring trends in reported, confirmed, re
 * **Microsoft Power BI** (Interactive Visualizations, Data Modeling, Dashboard Layouts).
 * **Public Health Analytics** (Geospatial Recovery Rates, Disease Prevalence, Temporal Trend Analysis).
 
-## 📊 Dashboard Preview
+## 📊 powerbi Project
 ![health report](health%20report_2.png)
 
 ## 💡 Key Findings & Insights
